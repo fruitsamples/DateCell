@@ -11,12 +11,11 @@ The Done button is a UIBarButton item set as the "rightBarButtonItem" of the nav
 In addition, this sample shows how to use NSDateFormatter class to achieve the custom cell's date-formatted appearance.
 
 
-Build Requirements
-Mac OS X 10.5.6 or later, iPhone OS 3.0 SDK.
+Build Requirements: 
+iOS SDK 4.0
 
-
-Runtime Requirements
-Mac OS X 10.5.6 or later, iPhone OS 3.0 SDK.
+Runtime Requirements: 
+iOS 4.0
 
 
 Using the Sample
@@ -37,7 +36,9 @@ MyTableViewController.h/.m - The main UITableViewController controlling the tabl
 
 
 Changes from Previous Versions
+1.1 - Upgraded project to build with the iOS 4 SDK.
+
 1.0 - First release.
 
 
-Copyright (C) 2009 Apple Inc. All rights reserved.
+Copyright (C) 2009-2010 Apple Inc. All rights reserved.
